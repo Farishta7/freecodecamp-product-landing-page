@@ -316,3 +316,7 @@ footer > span {
   font-size: 0.9em;
   color: #444;
 }
+
+.icon-description > h2 {
+    padding-bottom: 8px;
+}
